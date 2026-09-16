@@ -70,12 +70,11 @@ Mendukung metode pembayaran transaksi Digipos:
 > Runtime Node.js sudah termasuk di dalam aplikasi, sehingga pengguna tidak perlu melakukan instalasi Node.js secara terpisah.
 
 ---
-
 ## 📥 Installation
 
-### 1. Download Installer
+## 1. 📥 Download
 
-Download file installer **Addon DigiposAja (.exe)** melalui halaman **Releases**.
+[![Download](https://img.shields.io/github/v/release/USERNAME/REPOSITORY?label=Download&style=for-the-badge)](../../releases/latest)
 
 ### 2. Jalankan Installer
 
@@ -185,7 +184,7 @@ Windows x64
 
 ## 📝 Changelog
 
-### v4.0.0
+### v4.1.0
 
 * Initial release
 * Web Dashboard
